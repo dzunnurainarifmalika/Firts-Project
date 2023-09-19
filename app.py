@@ -5,3 +5,4 @@ r = input('masukan jari-jari lingkaran: ')
 luas = luas_lingkaran(int(r))
 
 print('Luasnya: {}'.format(luas))
+print ('i Love you')
